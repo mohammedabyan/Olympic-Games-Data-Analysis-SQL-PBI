@@ -47,6 +47,7 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Business Problem
 
