@@ -19,8 +19,6 @@
 -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abyannash-400073194/)
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -36,7 +34,6 @@
 
 ![image](https://user-images.githubusercontent.com/29911769/165155396-68f0e4c1-6ff2-4941-a5e0-c6caf352dced.png)
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -51,7 +48,11 @@
 
 ## Business Problem
 
- "As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games. You also know that there is an interest in details about the competitors, find anything interesting then don't hesitate to bring that in so if you also. The main task is still to show historical performance for different countries, with the possibility to select your own country."
+The challenge for this data analyst project is outlined below. This has been used continuously to ensure that the right data has been selected, transformed and used in the data visualization which is meant to be passed on to the business users.
+
+"As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.
+
+You also know that there is an interest in details about the competitors, find anything interesting then don't hesitate to bring that in so if you also. The main task is still to show historical performance for different countries, with the possibility to select your own country."
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
