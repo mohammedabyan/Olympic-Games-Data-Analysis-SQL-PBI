@@ -33,6 +33,8 @@
 </div>
 
 ![image](https://user-images.githubusercontent.com/29911769/165155396-68f0e4c1-6ff2-4941-a5e0-c6caf352dced.png)
+![image](https://user-images.githubusercontent.com/29911769/165206267-82d08cee-447b-4f2c-bc60-54648ad92789.png)
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -50,9 +52,9 @@
 
 The challenge for this data analyst project is outlined below. This has been used continuously to ensure that the right data has been selected, transformed and used in the data visualization which is meant to be passed on to the business users.
 
-"As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.
+**"As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.**
 
-You also know that there is an interest in details about the competitors, find anything interesting then don't hesitate to bring that in so if you also. The main task is still to show historical performance for different countries, with the possibility to select your own country."
+**You also know that there is an interest in details about the competitors, find anything interesting then don't hesitate to bring that in so if you also. The main task is still to show historical performance for different countries, with the possibility to select your own country."**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,6 +95,8 @@ Number of Competitors:
 ```
 # of Competitors = DISTINCOUNT('Olympic Data'[ID])
 ```
+
+Number of Medals:
 ```
 # of Medals =
 CALCULATE (
@@ -109,7 +113,7 @@ CALCULATE (
 
 ## Olympic Games Analysis
 
-The finished dashboard consist of visualizations and filters that give an easy option for the end users to navigate the summer games through history. Some possibilities are to filter by period using year, nation code to focus on one country or look into either a competitor or specific sports over time.
+The finished dashboard consist of visualizations and filters that give an easy option for the end users to navigate the summer games through history. Some possibilities are to filter by period using year, nation code to focus on one country or look into either a competitor or specific sports over time. View the dashboard [here](https://github.com/mohammedabyan/Olympic-Games-Data-Analysis-SQL-PBI/raw/main/Olympic%20Games%20Dashboard.pbix).
 
 ![image](https://user-images.githubusercontent.com/29911769/165158656-16c2f292-aa4f-484f-9c62-dd6c64259f5e.png)
 
